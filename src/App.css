@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+.tableDiv {
+  height: 483px;
+  width: 80%;
+  overflow: hidden;
+  overflow-y: scroll;
+  border-style: outset;
+}
